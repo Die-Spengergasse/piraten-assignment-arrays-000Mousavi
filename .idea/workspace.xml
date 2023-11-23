@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48ae8de3-8df8-4b32-a660-f5a31bdd696c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/at/spengergasse/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/spengergasse/TestPirat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/at/spengergasse/TestPirat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/spengergasse/TestSchiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/at/spengergasse/TestSchiff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/spengergasse/Pirat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/spengergasse/Pirat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/at/spengergasse/MainTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +30,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2YR6TzzB4yzr4EvZ7Mxcl2AEmAq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,15 +47,18 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/georg/IdeaProjects/pos-java-kif-piratenschiff/src/main/java/at/spengergasse",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/home/georg/IdeaProjects/pos-java-kif-piratenschiff/src/main/java/at/spengergasse/Main.java",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -99,6 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700476057434</updated>
       <workItem from="1700476058826" duration="2171000" />
+      <workItem from="1700491139834" duration="9688000" />
     </task>
     <task id="LOCAL-00001" summary="first commit piraten">
       <option name="closed" value="true" />
@@ -118,15 +125,8 @@
     <MESSAGE value="first commit piraten" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit piraten" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/at/spengergasse/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
